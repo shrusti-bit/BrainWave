@@ -101,18 +101,4 @@ Brain ML/
 
 ---
 
-## ❓ FAQ
 
-- Does this use real EEG?  
-  No, this version uses simulated EEG for instant, reproducible demos. The pipeline mirrors real EEG workflows.
-
-- Can I plug in real data later?  
-  Yes. The feature and model code paths are designed to accept real EEG after preprocessing.
-
----
-
-## 📜 License
-
-This project is released under the MIT License. See `LICENSE`.
-
----
